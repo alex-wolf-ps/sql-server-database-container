@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsApp", "CarsApp\CarsApp.csproj", "{1739F68F-3A5B-4867-AAD8-4CB3CC85ED43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1739F68F-3A5B-4867-AAD8-4CB3CC85ED43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1739F68F-3A5B-4867-AAD8-4CB3CC85ED43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1739F68F-3A5B-4867-AAD8-4CB3CC85ED43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1739F68F-3A5B-4867-AAD8-4CB3CC85ED43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AF44576-EB7D-407E-B33F-FA8E46E2FF31}
+	EndGlobalSection
+EndGlobal
